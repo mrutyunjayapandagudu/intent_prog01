@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intent_prog01</string>
+    <string name="app1">CLICK ME</string>
+    <string name="app2">BUTTON2</string>
+</resources>
